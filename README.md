@@ -9,3 +9,4 @@
 Resources:
 
 - Design Patterns by Gamma, Helm, Johnson, and Vlissides (GoF)
+- http://www.journaldev.com/1769/visitor-design-pattern-in-java-example-tutorial
