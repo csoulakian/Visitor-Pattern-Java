@@ -22,6 +22,14 @@ to easily be expanded to allow for other operations on the same concrete element
 calculating the total cost in a customer's shopping cart, another visitor could assist with 
 store inventory.
 
+Run main method in
+
+    src/main/java/VisitorPattern
+
+Run tests in
+
+    src/test/java/VisitorPatternTest
+
 
 Resources:
 
