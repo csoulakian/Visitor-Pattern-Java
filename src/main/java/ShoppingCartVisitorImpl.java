@@ -2,6 +2,8 @@
  * Chrissy Soulakian
  * VisitorPattern Project
  * Created on 4/25/2016
+ *
+ * Concrete Visitor that implements the Visitor interface
  */
 public class ShoppingCartVisitorImpl implements ShoppingCartVisitor {
 

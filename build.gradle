@@ -1,4 +1,4 @@
-group 'comp373-project4'
+group 'comp373-Project4'
 version '1.0-SNAPSHOT'
 
 task wrapper(type: Wrapper) {

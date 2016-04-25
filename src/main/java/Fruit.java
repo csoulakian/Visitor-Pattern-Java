@@ -2,6 +2,8 @@
  * Chrissy Soulakian
  * VisitorPattern Project
  * Created on 4/25/2016
+ *
+ * Fruit is one of the two Concrete Elements.
  */
 public class Fruit implements Item {
 

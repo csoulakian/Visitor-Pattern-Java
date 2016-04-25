@@ -2,6 +2,8 @@
  * Chrissy Soulakian
  * VisitorPattern Project
  * Created on 4/25/2016
+ *
+ * Client with main method
  */
 public class VisitorPattern {
 

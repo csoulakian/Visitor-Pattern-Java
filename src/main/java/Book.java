@@ -2,6 +2,8 @@
  * Chrissy Soulakian
  * VisitorPattern Project
  * Created on 4/25/2016
+ *
+ * Book is one of the two Concrete Elements.
  */
 public class Book implements Item {
 
